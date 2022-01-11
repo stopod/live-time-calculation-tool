@@ -59,13 +59,13 @@ function Main() {
 
     setResultLiveTime((to_ss - from_ss) / 60);
     setResultTime((resultLiveTime / entryNum) - restTime * (entryNum - 1));
-
   }
 
   return (
     <React.Fragment>
       <h1>ざっくり計算</h1>
       <p>ちゃんと手でも計算して</p>
+      <p>へんな結果になるときはもう一度計算ボタンおして（解決する時がある）</p>
       <table>
         <tbody>
           <tr>
