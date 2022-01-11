@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/live-time-calculation-tool/static/js/main.0aa35eed.js",
+    "static/js/787.4debd302.chunk.js": "/live-time-calculation-tool/static/js/787.4debd302.chunk.js",
+    "index.html": "/live-time-calculation-tool/index.html",
+    "main.0aa35eed.js.map": "/live-time-calculation-tool/static/js/main.0aa35eed.js.map",
+    "787.4debd302.chunk.js.map": "/live-time-calculation-tool/static/js/787.4debd302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0aa35eed.js"
+  ]
+}
